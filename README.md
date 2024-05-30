@@ -11,5 +11,5 @@ pip install xmltodict numpy matplotlib open3d
 ```
 
 ##  Files
-pace_analyze.py: Main script for analyzing and visualizing the data.
-utils/: Directory containing utility functions used in the script.
+- pace_analyze.py: Main script for analyzing and visualizing the data.
+- utils/: Directory containing utility functions used in the script.
